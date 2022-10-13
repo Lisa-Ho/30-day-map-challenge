@@ -1,0 +1,48 @@
+# exclude jupyter checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+cache/
+
+# exclude data files
+*.csv
+*.xlsx
+*.xls
+*.txt
+*.json
+!requirements.txt
+
+#geofiles
+*.qgz
+*.gpkg
+*.gpx
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.xml
+*.shx
+*.hexjson
+*.geojson
+*.lyr
+
+#data and doc folders
+data/
+docs/
+
+# exclude images
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+#exclude docs
+*.docx
+*.pdf
+
+#exclude design files
+*.ai
+*.indd
