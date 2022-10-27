@@ -9,5 +9,7 @@
 <img src="https://user-images.githubusercontent.com/50448656/198069821-a5cb605f-be27-427a-838a-46f904abf183.png" width="450">
 
 ## Day 3 Polygon
-<img src="https://user-images.githubusercontent.com/50448656/198069930-4bda99f6-255b-4014-841f-a4a720f1a24c.png" width="450">
+<img src="https://user-images.githubusercontent.com/50448656/198343524-d2b8d6dd-21e5-437f-bff8-56a5e911614f.png" width="450">
 
+## Day 4 Green
+<img src="https://user-images.githubusercontent.com/50448656/198343624-30ec83f4-b4b3-4e01-af70-db63bf179d9e.png" width="450">
