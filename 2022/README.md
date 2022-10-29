@@ -13,3 +13,6 @@
 
 ## Day 4 Green
 <img src="https://user-images.githubusercontent.com/50448656/198343624-30ec83f4-b4b3-4e01-af70-db63bf179d9e.png" width="450">
+
+## Day 9 Space
+<img src="https://user-images.githubusercontent.com/50448656/198850622-8f5eaf6c-162c-4ae5-b544-c654dd08e109.png" width="450">
