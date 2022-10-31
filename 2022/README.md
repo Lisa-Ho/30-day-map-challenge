@@ -14,6 +14,9 @@
 ## Day 4 Green
 <img src="https://user-images.githubusercontent.com/50448656/198343624-30ec83f4-b4b3-4e01-af70-db63bf179d9e.png" width="450">
 
+## Day 6 Network
+<img src="https://user-images.githubusercontent.com/50448656/199119468-e705c510-c68e-40fb-ac1f-cb4940f3ce38.png" width="450">
+
 ## Day 7 Raster
 <img src="https://user-images.githubusercontent.com/50448656/198875890-e4b8c1d3-ca0c-4e31-8ca2-f7e907cdcdf4.png" width="450">
 
