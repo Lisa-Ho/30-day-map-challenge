@@ -20,5 +20,8 @@
 ## Day 7 Raster
 <img src="https://user-images.githubusercontent.com/50448656/198875890-e4b8c1d3-ca0c-4e31-8ca2-f7e907cdcdf4.png" width="450">
 
+## Day 8 Open Street Map
+<img src="https://user-images.githubusercontent.com/50448656/200167766-3e11be2f-b910-48a8-b338-ecb95e3a9493.png" width="450">
+
 ## Day 9 Space
 <img src="https://user-images.githubusercontent.com/50448656/198850622-8f5eaf6c-162c-4ae5-b544-c654dd08e109.png" width="450">
