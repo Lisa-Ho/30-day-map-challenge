@@ -15,6 +15,9 @@ cache/
 *.json
 !requirements.txt
 
+# exclude config files
+*.cfg
+
 #geofiles
 *.qgz
 *.gpkg
