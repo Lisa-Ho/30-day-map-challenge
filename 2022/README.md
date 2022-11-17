@@ -28,3 +28,8 @@
 
 ## Day 15 Food/drink
 <img src="https://user-images.githubusercontent.com/50448656/202416552-c4c5f27c-8842-4b43-85ab-09ccb6e4f274.png" width="450">
+
+## Day 16 Minimal
+<img src="https://user-images.githubusercontent.com/50448656/202515336-279ac93f-4d10-45df-a4d2-652c77c9169d.png" width="450">
+
+
