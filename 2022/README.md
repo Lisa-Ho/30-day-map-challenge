@@ -27,7 +27,7 @@
 <img src="https://user-images.githubusercontent.com/50448656/198850622-8f5eaf6c-162c-4ae5-b544-c654dd08e109.png" width="450">
 
 ## Day 14 Hexagon
-<img src="https://user-images.githubusercontent.com/50448656/204294857-a9ecda0e-e555-4786-a13d-996e0962aa86.png" width="450">
+<img src="https://user-images.githubusercontent.com/50448656/204299981-d7457033-6fa8-4128-9bca-a59523d79d21.png" width="450">
 
 ## Day 15 Food/drink
 <img src="https://user-images.githubusercontent.com/50448656/202416552-c4c5f27c-8842-4b43-85ab-09ccb6e4f274.png" width="450">
