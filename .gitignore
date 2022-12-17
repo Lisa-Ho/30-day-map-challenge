@@ -38,6 +38,7 @@ docs/
 
 # exclude images
 *.png
+*.gif
 *.jpg
 *.jpeg
 *.svg
