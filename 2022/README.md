@@ -41,6 +41,9 @@
 ## Day 25 Two colours
 <img src="https://user-images.githubusercontent.com/50448656/209395732-1127f3d2-2f11-404c-ab38-e54d97b1c50e.png" width="450">
 
+## Day 28 3D
+<img src="https://user-images.githubusercontent.com/50448656/209690291-1dd9c0a3-5d78-42fe-a473-cb1dd8cd4534.png" width="450">
+
 ## Day 30 Remix
 <img src="https://user-images.githubusercontent.com/50448656/205451262-64e61816-30f3-4c7c-8d78-75124226456c.png" width="250"><img src="https://user-images.githubusercontent.com/50448656/205451264-dbb22eab-4b85-4199-924b-3c14dd4b3efa.png" width="250">
 
