@@ -31,6 +31,7 @@ cache/
 *.hexjson
 *.geojson
 *.lyr
+*.tif
 
 #data and doc folders
 data/
