@@ -26,6 +26,9 @@
 ## Day 9 Space
 <img src="https://user-images.githubusercontent.com/50448656/198850622-8f5eaf6c-162c-4ae5-b544-c654dd08e109.png" width="450">
 
+## Day 12 Scale
+<img src="https://user-images.githubusercontent.com/50448656/211159556-b2e32816-f0f9-40b1-9090-1e20be93dde8.png" height="350"> <img src="https://user-images.githubusercontent.com/50448656/211159593-194c27c3-e039-4cce-a702-7931170ff2e5.png" height="350">
+
 ## Day 14 Hexagon
 <img src="https://user-images.githubusercontent.com/50448656/204299981-d7457033-6fa8-4128-9bca-a59523d79d21.png" width="450">
 
@@ -46,7 +49,4 @@
 
 ## Day 30 Remix
 <img src="https://user-images.githubusercontent.com/50448656/205451262-64e61816-30f3-4c7c-8d78-75124226456c.png" width="250"><img src="https://user-images.githubusercontent.com/50448656/205451264-dbb22eab-4b85-4199-924b-3c14dd4b3efa.png" width="250">
-
-
-
 
