@@ -11,4 +11,6 @@
 
 <img src="https://github.com/Lisa-Ho/30-day-map-challenge/assets/50448656/c91129ce-74f4-4c3e-8c5d-e64a3abe587e" width="450">
 
+# Day 4 - A bad map
 
+<img src="https://github.com/Lisa-Ho/30-day-map-challenge/assets/50448656/a5c9acad-7e41-4213-a9ec-b55655937fe3" width="450">
