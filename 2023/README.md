@@ -14,3 +14,8 @@
 # Day 4 - A bad map
 
 <img src="https://github.com/Lisa-Ho/30-day-map-challenge/assets/50448656/a5c9acad-7e41-4213-a9ec-b55655937fe3" width="450">
+
+# Day 6 - Asia
+
+<img src="https://github.com/Lisa-Ho/30-day-map-challenge/assets/50448656/a7b064a5-1eab-4c63-b187-35cb1f030860" width="350">
+
