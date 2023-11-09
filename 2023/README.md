@@ -19,3 +19,6 @@
 
 <img src="https://github.com/Lisa-Ho/30-day-map-challenge/assets/50448656/a7b064a5-1eab-4c63-b187-35cb1f030860" width="250">
 
+# Day 9 - Hexagons
+
+<img src="https://github.com/Lisa-Ho/30-day-map-challenge/assets/50448656/06d2889f-1715-4feb-b72c-c66e92ee3561" width="350">
