@@ -21,3 +21,9 @@
 
 # Day 14 - Europe
 <img src="https://github.com/Lisa-Ho/30-day-map-challenge/assets/50448656/09ae26a5-3651-4a10-8a69-c358e5b9e708" width="300">
+
+# Day 15 - OpenStreetMap
+
+Map made with [FigureGrounder](https://hanshack.com/figuregrounder/), a tool made by Hans Hack using OpenStreetMap data. 
+
+<img src="https://github.com/Lisa-Ho/30-day-map-challenge/assets/50448656/6e360f7f-6923-4426-bd05-d4714963e5c2" width="300">
