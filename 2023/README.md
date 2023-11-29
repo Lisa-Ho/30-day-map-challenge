@@ -30,3 +30,5 @@ Map made with [FigureGrounder](https://hanshack.com/figuregrounder/), a tool mad
 # Day 20 - Outdoors
 <img src="https://github.com/Lisa-Ho/30-day-map-challenge/assets/50448656/f59c3c1f-85fa-4d0f-81a7-92d9fc70686e" width="250">
 
+# Day 29 - Population
+<img src="https://github.com/Lisa-Ho/30-day-map-challenge/assets/50448656/b4f5fbb8-2a8e-45dc-bd6b-afea9b5c1996" width="350">
