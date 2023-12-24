@@ -43,6 +43,7 @@ docs/
 *.jpg
 *.jpeg
 *.svg
+!uk-ridgemap-v2.svg
 
 #exclude docs
 *.docx
