@@ -52,6 +52,8 @@ docs/
 #exclude design files
 *.ai
 *.indd
+*.blend1
+*.blend
 
 #personal files
 ridgemap_gifts.ipynb
